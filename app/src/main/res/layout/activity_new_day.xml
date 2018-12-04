@@ -7,9 +7,10 @@
     tools:context=".activity.DayActivity">
 
     <ImageView
+        android:id="@+id/iv_background"
         android:layout_width="match_parent"
         android:layout_height="match_parent"
-        android:src="@drawable/new_city"
+        android:src="@drawable/background_02"
         android:scaleType="centerCrop"/>
 
     <TextView
