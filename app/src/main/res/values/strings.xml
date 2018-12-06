@@ -1,5 +1,36 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
     <string name="app_name">adcent_calendar_2018</string>
-    <string name="new_city_header">Время чудес! Время приключений! Время путешествий и новых открытий! Время познакомиться с новым городом по соседству!</string>
+
+    <string name="day_01">no text</string>
+    <string name="day_02_new_city">Время чудес! Время приключений! Время путешествий и новых открытий! Время познакомиться с новым городом по соседству!</string>
+    <string name="day_03">no text</string>
+    <string name="day_04">no text</string>
+    <string name="day_05">no text</string>
+    <string name="day_06">no text</string>
+    <string name="day_07">no text</string>
+    <string name="day_08">no text</string>
+    <string name="day_09">no text</string>
+    <string name="day_10">no text</string>
+    <string name="day_11">no text</string>
+    <string name="day_12">no text</string>
+    <string name="day_13">no text</string>
+    <string name="day_14">no text</string>
+    <string name="day_15">no text</string>
+    <string name="day_16">no text</string>
+    <string name="day_17">no text</string>
+    <string name="day_18">no text</string>
+    <string name="day_19">no text</string>
+    <string name="day_20">no text</string>
+    <string name="day_21">no text</string>
+    <string name="day_22">no text</string>
+    <string name="day_23">no text</string>
+    <string name="day_24">no text</string>
+    <string name="day_25">no text</string>
+    <string name="day_26">no text</string>
+    <string name="day_27">no text</string>
+    <string name="day_28">no text</string>
+    <string name="day_29">no text</string>
+    <string name="day_30">no text</string>
+    <string name="day_31">no text</string>
 </resources>
