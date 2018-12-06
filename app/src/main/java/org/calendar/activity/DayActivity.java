@@ -41,6 +41,12 @@ public class DayActivity extends AppCompatActivity implements View.OnClickListen
     }
 
     @Override
+    protected void onStart(){
+        super.onStart();
+
+    }
+
+    @Override
     public void onClick(View view) {
         CheckBox checkBox = (CheckBox) view;
         Log.w("onClick", "onClick: " + buttonId + " state: " + checkBox.isChecked());
